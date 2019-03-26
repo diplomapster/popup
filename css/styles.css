@@ -1,0 +1,29 @@
+#showing-ermine {
+  display: none;
+}
+
+#showing-eagle {
+  display: none;
+}
+
+
+.clickable1, .clickable2{
+  cursor: pointer;
+  color: #008833
+}
+
+.clickable1:hover, .clickable2:hover{
+  text-decoration: underline;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
